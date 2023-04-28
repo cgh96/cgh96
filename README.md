@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Scss-cc6699?style=for-the-badge&logo=sass&logoColor=white"><img src="https://img.shields.io/badge/Styled--components-db7093?style=for-the-badge&logo=styled-components&logoColor=white">
 
 ### Testing
-<img src="https://img.shields.io/badge/Jest-c21325?style=for-the-badge&logo=Jest&logoColor=white"><img src="https://img.shields.io/badge/testing--library-e33332?style=for-the-badge&logo=testing library&logoColor=white">
+<img src="https://img.shields.io/badge/Jest-c21325?style=for-the-badge&logo=Jest&logoColor=white"><img src="https://img.shields.io/badge/testing--library-e33332?style=for-the-badge&logo=testing library&logoColor=white"><img src="https://img.shields.io/badge/mock%20service%20worker-9a8555?style=for-the-badge&logoColor=white">
   
 <br><br>
 <div align="center"> 
