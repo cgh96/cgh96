@@ -22,7 +22,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyuhoBest&layout=compact)](https://github.com/gyuhoBest/github-readme-stats)
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tt8784)](https://solved.ac/tt8784/)
+  <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tt8784)](https://solved.ac/tt8784/)-->
 </div>
 <!--
 **gyuhoBest/gyuhoBest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
