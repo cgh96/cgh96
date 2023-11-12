@@ -18,9 +18,9 @@
 <br><br>
 <div align="center"> 
  
-[![Gyuho's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gyuhoBest&count_private=true&theme=tokyonight)](https://github.com/gyuhoBest/github-readme-stats)
+[![Gyuho's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cgh96&count_private=true&theme=tokyonight)](https://github.comcgh96/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gyuhoBest&layout=compact)](https://github.com/gyuhoBest/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cgh96&layout=compact)](https://github.com/cgh96/github-readme-stats)
 
   <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tt8784)](https://solved.ac/tt8784/)-->
 </div>
