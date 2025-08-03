@@ -1,5 +1,5 @@
 # CHOI GYU HO
-> React/Vue 프론트엔드 개발자<br/>
+> React/Vue3 프론트엔드 개발자<br/>
 > B2B 모빌리티 서비스 개발 | 경력 1년
 
 
