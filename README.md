@@ -1,4 +1,7 @@
 # CHOI GYU HO
+> React/Vue 프론트엔드 개발자<br/>
+> B2B 모빌리티 서비스 개발 | 경력 1년
+
 
 ### Skills
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
